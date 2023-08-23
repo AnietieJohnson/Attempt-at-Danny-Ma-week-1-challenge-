@@ -15,11 +15,18 @@ Query to count the number of days each customer visited the restaurant:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/Answer%20to%20question%202.png)
 - The first query shows how many times a customer ordered using the count of order_date
 - Due to the fact that some customers ordered twice in one day, I used *DISTINCT* to pick out only one of the duplicate days to know the actual count of days a customer visited.
+
 ### Question 3: First Item Purchased by Each Customer
 Query to find the first item from the menu purchased by each customer:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%203.png)
 - I wrote a subquery to rank order date by ascending order and partition the ranking by customer ID
 - To get all columns useful for my solution I joined the sales table and the Menu table
 - Then the main Query was to fetch the lowest rank
+- More Information was required for example a time stamp for products bought on the same day, this way we know which was ordered first  
 ### Question 4: Most Purchased Item and Purchase Count
+To answer the question "What is the most purchased item on the menu and how many times was it purchased by all customers?"
+- I wrote a query to get the number of times each product was purchased
+- I wrote a second query to check the number of times the most purchased product was bought by each customer.
+
 Query to identify the most purchased item on the menu and its purchase count:
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%204.png)
