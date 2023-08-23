@@ -10,3 +10,8 @@ The dataset provided for this analysis includes the following tables:
 ### Question 1: Total Amount Spent by Each Customer
 Query to calculate the total amount each customer spent at the restaurant:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%201.png)
+### Question 2: Number of Days Each Customer Visited the Restaurant
+Query to count the number of days each customer visited the restaurant:
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/Answer%20to%20question%202.png)
+- The first query shows how many times a customer ordered using the count of order_date
+- Due to the fact that some customers ordered twice in one day, I used *DISTINCT* to pick out only one of the duplicate days to know the actual count of days a customer visited.
