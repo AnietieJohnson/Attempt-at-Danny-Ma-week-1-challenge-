@@ -18,3 +18,8 @@ Query to count the number of days each customer visited the restaurant:
 ### Question 3: First Item Purchased by Each Customer
 Query to find the first item from the menu purchased by each customer:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%203.png)
+- I wrote a subquery to rank order date by ascending order and partition the ranking by customer ID
+- To get all columns useful for my solution I joined the sales table and the Menu table
+- Then the main Query was to fetch the lowest rank
+### Question 4: Most Purchased Item and Purchase Count
+Query to identify the most purchased item on the menu and its purchase count:
