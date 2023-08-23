@@ -40,3 +40,7 @@ To answer question 6
 - I also used the **_WHERE clause_** with **_operators_** to reference the the join date from the membership table
 Query to identify the item purchased first by a customer after becoming a member:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/Solution%20to%20question%206.png)
+### Question 7: Item Purchased Just Before Becoming a Member
+Query to find the item purchased just before a customer became a member:
+I followed the step as outlined in question 6, with a few changes to the **_operators_**
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%207.png)
