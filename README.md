@@ -9,3 +9,4 @@ The dataset provided for this analysis includes the following tables:
 ## Questions and Solutions
 ### Question 1: Total Amount Spent by Each Customer
 Query to calculate the total amount each customer spent at the restaurant:
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%201.png)
