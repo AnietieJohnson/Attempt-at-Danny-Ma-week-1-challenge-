@@ -34,5 +34,9 @@ Query to identify the most purchased item on the menu and its purchase count:
 Query to find the most popular item for each customer:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/Solution%20to%20question%205.png)
 ### Question 6: First Item Purchased After Becoming a Member
+To answer question 6
+- I joined all three tables, I used a right join for the third table so I only get information from the left table that matches information in the right table.
+- I ranked order date by ascending order and partitiion the ranking by customer ID
+- I also used the **_WHERE clause_** with **_operators_** to reference the the join date from the membership table
 Query to identify the item purchased first by a customer after becoming a member:
-
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/Solution%20to%20question%206.png)
