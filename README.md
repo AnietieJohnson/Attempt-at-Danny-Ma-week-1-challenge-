@@ -30,3 +30,9 @@ To answer the question "What is the most purchased item on the menu and how many
 
 Query to identify the most purchased item on the menu and its purchase count:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%204.png)
+### Question 5: Most Popular Item for Each Customer
+Query to find the most popular item for each customer:
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/Solution%20to%20question%205.png)
+### Question 6: First Item Purchased After Becoming a Member
+Query to identify the item purchased first by a customer after becoming a member:
+
