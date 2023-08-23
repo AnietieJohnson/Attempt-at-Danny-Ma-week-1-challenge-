@@ -44,3 +44,9 @@ Query to identify the item purchased first by a customer after becoming a member
 Query to find the item purchased just before a customer became a member:
 I followed the step as outlined in question 6, with a few changes to the **_operators_**
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%207.png)
+### Question 8: Total Items and Amount Spent Before Membership
+- From the question the interest is on the customers that became members
+- I got their total items and the total amount spent
+
+Query to calculate the total items and amount spent by each member before becoming a member:
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solutions%20to%20question%208.png)
