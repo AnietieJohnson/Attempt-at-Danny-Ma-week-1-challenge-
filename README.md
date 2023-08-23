@@ -15,3 +15,6 @@ Query to count the number of days each customer visited the restaurant:
 ![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/Answer%20to%20question%202.png)
 - The first query shows how many times a customer ordered using the count of order_date
 - Due to the fact that some customers ordered twice in one day, I used *DISTINCT* to pick out only one of the duplicate days to know the actual count of days a customer visited.
+### Question 3: First Item Purchased by Each Customer
+Query to find the first item from the menu purchased by each customer:
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solution%20to%20question%203.png)
