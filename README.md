@@ -49,4 +49,9 @@ I followed the step as outlined in question 6, with a few changes to the **_oper
 - I got their total items and the total amount spent
 
 Query to calculate the total items and amount spent by each member before becoming a member:
-![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solutions%20to%20question%208.png)
+![](https://github.com/AnietieJohnson/Danny-Ma-week-1-challenge-/blob/main/solutions%20to%20question%208.0.png)
+## Conclusion
+This SQL analysis of the Danny Ma challenge questions provided valuable insights into customer behaviors, purchase patterns, and membership dynamics at the restaurant. By structuring queries to address each specific question, we gained a comprehensive understanding of the dataset and derived meaningful conclusions from it.
+## Limitations
+- The analysis relies on the accuracy and completeness of the dataset. Any missing or incorrect data may affect the results.
+- Order date can be specified with time for better analysis  
